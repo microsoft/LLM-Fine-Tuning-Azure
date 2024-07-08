@@ -1,5 +1,5 @@
 # LLM Fine-Tuning using Azure 
-A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
+A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure. This repo. is designed to be user-friendly for people with non-technical background and for people with technical background such as Data Scientists and Machine Learning Engineers.
 
 ## What
 Fine-Tuning, or *Supervised Fine-Tuning*, retrains an existing pre-trained LLM using example data, resulting in a new "custom" fine-tuned LLM that has been optimized for the provided task-specific examples. 
