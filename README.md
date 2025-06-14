@@ -23,7 +23,7 @@ You may consider Fine-Tuning when:
 - you have clear evaluation metrics to benchmark fine-tuned models.
 
 ## Learning Path
-**Lab 1: LLM Fine-Tuning via *Dashboards***
+**Lab 1: LLM Fine-Tuning via *Azure AI Foundry UI Dashboards***
 - [Lab 1.1](labs/fine_tuning_dashboards/gpt_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT Models (*1h duration*)
 - [Lab 1.2](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Models (*1h duration*)
 
