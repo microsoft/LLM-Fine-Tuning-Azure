@@ -37,13 +37,13 @@ You may consider Fine-Tuning when:
 
 ## Learning Path
 **Lab 1: LLM Fine-Tuning via *Azure AI Foundry UI Dashboards***
-- [Lab 1.1](labs/fine_tuning_dashboards/gpt_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT Models (*1h duration*)
+- [Lab 1.1](labs/fine_tuning_dashboards/gpt_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-3.5 Models (*1h duration*)
 - [Lab 1.2](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Models (*1h duration*)
 - [Lab 1.3](labs/fine_tuning_dashboards/gpt_4o_mini_fine_tuning_azure_ai_foundry_dashboard.md): Fine-Tuning GPT-4o-mini Model (*1h duration*)
 - [Lab 1.4](labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md): Fine-Tuning GPT-4.1-mini Model (*1h duration*)
 
 **Lab 2: LLM Fine-Tuning via *Python SDK***
-- [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT Models (*2h duration*)
+- [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT-3.5 Models (*2h duration*)
 - [Lab 2.2](labs/fine_tuning_notebooks/llama2_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Models (*2h duration*)
 - [Lab 2.3](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_supervised_fine_tuning_for_text_qa.ipynb): Supervised Fine-Tuning GPT-4o Model (*2h duration*)
 - [Lab 2.4](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_dpo_fine_tuning_for_text_qa.ipynb): DPO Fine-Tuning GPT-4o Model (*2h duration*)
