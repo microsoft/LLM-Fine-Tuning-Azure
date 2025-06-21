@@ -51,7 +51,7 @@ You may consider Fine-Tuning when:
 - [Lab 2.3](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_supervised_fine_tuning_for_text_qa.ipynb): Supervised Fine-Tuning GPT-4o Model (*2h duration*)
 - [Lab 2.4](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_dpo_fine_tuning_for_text_qa.ipynb): DPO Fine-Tuning GPT-4o Model (*2h duration*)
 
-**Lab 3: LLM Fine-Tuning via *Open Source SDK***
+**Lab 3: LLM Fine-Tuning via *Open Source Tools***
 - [Lab 3.1](labs/fine_tuning_notebooks/llama3_fine_tuning/llama3.2-11b-supervised-fine-tuning-for-vision-text-qa-using-unsloth.ipynb): Supervised Fine-Tuning Llama3.2-11B Vision Model using Unsloth AI Framework (*3h duration*)
 
 ## Contributing
