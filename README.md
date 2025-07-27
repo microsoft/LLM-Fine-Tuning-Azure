@@ -2,7 +2,7 @@
 **Fine-Tuning LLMs on Azure** is a modular, beginner-to-expert-friendly guide for customizing both OpenAI and open-source language models using Azure. Designed for Data Scientists, Machine Learning Engineers, and even those without a deep technical background, this repository offers a clear, scalable path to mastering LLM fine-tuning with practical, real-world examples on the Azure cloud platform.
 
 ## New
-🔥 Updated (2025-07-27): Phi-3-mini Fine-Tuning using LoRA from Hugging Face TRL Open Source Python SDK (Pro-Code)
+🔥 New (2025-08-01): Phi-3-mini Fine-Tuning using LoRA from Hugging Face TRL Open Source Python SDK (Pro-Code)
 <a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_instruct_supervised_fine_tuning_for_text_qa_using_lora_from_hf_trl.ipynb">[Jump to the demo]</a>
 
 🔥 New (2025-07-07): Phi-4-mini Fine-Tuning using Azure Python SDK (Low-Code)
